@@ -18,14 +18,14 @@
 - вивантаження локального репозиторію на GitHub.
 
 ### Використані команди Git:
-- `git init`
-- `git status`
-- `git add`S
-- `git commit`
-- `git remote add`
-- `git push`
-- `git pull`
-- `git branch`
+- [ ] `git init`
+- [ ] `git status`
+- [x] `git add`
+- [ ] `git commit`
+- [x] `git remote add`
+- [ ] `git push`
+- [x] `git pull`
+- [x] `git branch`
 
 ---
 

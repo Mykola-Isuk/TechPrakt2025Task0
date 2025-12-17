@@ -1,0 +1,7 @@
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\bin\Debug\SUM_FOR_NUMBERS.exe.config
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\bin\Debug\SUM_FOR_NUMBERS.exe
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\bin\Debug\SUM_FOR_NUMBERS.pdb
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\obj\Debug\SUM_FOR_NUMBERS.csproj.AssemblyReference.cache
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\obj\Debug\SUM_FOR_NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\obj\Debug\SUM_FOR_NUMBERS.exe
+C:\Users\fakar\Практика_2_курс\Git\завдання_0\C#_project\SUM_FOR_NUMBERS\SUM_FOR_NUMBERS\obj\Debug\SUM_FOR_NUMBERS.pdb
